@@ -1,0 +1,10 @@
+Hello this is my first got repo.
+
+Add files:
+git add nameOfFile
+
+commit files:
+git commit -m "You have "
+
+push changes to github (or rmote repository)
+got push origin nameOfBranch
